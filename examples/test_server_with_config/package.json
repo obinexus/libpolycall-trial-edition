@@ -1,0 +1,18 @@
+{
+  "name": "test.libpolycall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test_server_with_config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@obinexuscomputing/node-polycall": "file:../../bindings/node-polycall",
+    "chai": "^5.2.0",
+    "diff": "^7.0.0",
+    "mocha": "^11.1.0"
+  }
+}

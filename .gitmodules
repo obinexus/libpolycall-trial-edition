@@ -1,0 +1,2 @@
+[submodule "node-polycall"]
+	url = git@gitlab.com:obinexuscomputing.pkg/polycall/node-polycall.git
