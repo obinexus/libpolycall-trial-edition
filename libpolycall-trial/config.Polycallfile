@@ -1,11 +1,9 @@
 # PolyCall System Configuration
 
 # Language Server Definitions
-<<<<<<< HEAD:libpolycall/config.Polycallfile
 server node 8080:8082
 =======
 server node 8080:8084
->>>>>>> main:libpolycall-trial/config.Polycallfile
 server python 3001:8084
 server java 3002:8082
 server go 3003:8083
